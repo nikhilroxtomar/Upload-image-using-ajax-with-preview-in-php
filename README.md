@@ -1,0 +1,1 @@
+# Upload-image-using-ajax-with-preview-in-php
