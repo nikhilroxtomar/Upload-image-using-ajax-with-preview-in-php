@@ -1,0 +1,32 @@
+.upload-form-wrapper{
+  background: #fff;
+  width: 500px;
+  padding:10px;
+  box-shadow: 1px 5px 10px #ccc;
+  border-radius: 3px;
+  margin: auto;
+  font-family:sans-serif;
+}
+.photo-preview{
+  background: #ccc;
+  min-height: 200px;
+  width: 500px;
+}
+.photo-action{
+  padding:10px;
+  text-align: center;
+}
+.photo-action img{
+  height: 50px;
+  width:50px;
+}
+input[type="file"]{
+  border: 1px solid #ccc;
+}
+.upload-btn{
+  background: #333;
+  padding: 5px 25px;
+  color: #fff;
+  border: 1px solid #333;
+  cursor: pointer;
+}
